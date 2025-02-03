@@ -54,9 +54,8 @@ Feel free to submit pull requests or issues. Contributions are welcome!
 
 If you would like to support the development of this project, you can make a donation using the following addresses:
 
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
+- **Solana**: `6Ffqu3SH1xSB379Y3b26Hp3JvRmwymNC8jKy6GxD5Cqd`
+- **EVM**: `0xe21b0228D428a57Fff3a55F80EcDcE43635942dc`
 
 ## License
 
